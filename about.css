@@ -88,7 +88,7 @@ footer {
 	font-size: 26pt;
 	text-align:left;
 	padding: 0px 0px 5px 0px;
-	margin-left: 40px;
+	margin-left: 20px;
 }
 
 .bottom {
@@ -96,7 +96,7 @@ footer {
 	font-size: 12pt;
 	text-align:left;
 	padding: 0px;
-	margin-left: 40px;
+	margin-left: 20px;
 	margin-bottom: 10px;
 }
 
@@ -113,6 +113,7 @@ footer {
 .push {
 	margin-left: 140px;
 }
+
 
 
 
